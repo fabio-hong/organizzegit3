@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">organizzegit3</string>
+    <string name="senhafraca">Senha fraca</string>
+    <string name="email_invalido">Email inválido</string>
+    <string name="ja_existe">Conta já existe</string>
+
+    <string name="toast_senha">Preencha a senha</string>
+    <string name="toast_email">Preencha o email</string>
+    <string name="toast_nome">Preencha o nome</string>
+    <string name="toast_erro_cadastro">Erro ao cadastrar</string>
+    <string name="toast_sucesso_cadastro">Sucesso ao cadastrar</string>
+    <string name="toast_sucesso_login">Sucesso ao fazer login</string>
+    <string name="toast_erro_login">Erro ao fazer login</string>
+    <string name="email_senha_nao_batem">email e senha não batem</string>
+    <string name="nao_existe_essa_conta">não existe essa conta</string>
+    <string name="preencha_senha">Preencha senha</string>
+    <string name="preencha_email">Preencha email</string>
+    <string name="a">linha 60</string>
+</resources>

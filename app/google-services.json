@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734615298358",
+    "firebase_url": "https://organizze-relembrando.firebaseio.com",
+    "project_id": "organizze-relembrando",
+    "storage_bucket": "organizze-relembrando.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734615298358:android:e6830058130d68f3065397",
+        "android_client_info": {
+          "package_name": "com.meio.organizzegit3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734615298358-v0hdefk309595lh6bhadcdd6275haukq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meio.organizzegit3",
+            "certificate_hash": "f259ef1fb2c0dab5e15ad289a4d091fd20de0b78"
+          }
+        },
+        {
+          "client_id": "734615298358-m38mkbcil445mllgk12570vpq7jn5766.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06YeZSjPipI_V7L2rpU17mlNMwOkyBS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734615298358-m38mkbcil445mllgk12570vpq7jn5766.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
